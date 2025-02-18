@@ -18,4 +18,5 @@ add_executable(CursoEstructurasDatos main.cpp
         "Bellman-Ford .cpp"
         Fijuras.cpp
         Krustal.cpp
-        CursoParte2/Heaps01.cpp)
+        CursoParte2/Heaps01.cpp
+        CursoParte2/heaps02.cpp)
