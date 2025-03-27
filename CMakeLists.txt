@@ -19,4 +19,6 @@ add_executable(CursoEstructurasDatos main.cpp
         Fijuras.cpp
         Krustal.cpp
         CursoParte2/Heaps01.cpp
-        CursoParte2/heaps02.cpp)
+        CursoParte2/heaps02.cpp
+        CursoParte2/busquedaBinaria2.cpp
+        CursoParte2/busquedaBinaria3.cpp)

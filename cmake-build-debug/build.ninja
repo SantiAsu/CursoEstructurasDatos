@@ -151,6 +151,18 @@ build CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/heaps02.cpp.obj: CXX_COMP
   OBJECT_DIR = CMakeFiles\CursoEstructurasDatos.dir
   OBJECT_FILE_DIR = CMakeFiles\CursoEstructurasDatos.dir\CursoParte2
 
+build CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/busquedaBinaria2.cpp.obj: CXX_COMPILER__CursoEstructurasDatos_unscanned_Debug C$:/Users/santi/CLionProjects/CursoEstructurasDatos/CursoParte2/busquedaBinaria2.cpp || cmake_object_order_depends_target_CursoEstructurasDatos
+  DEP_FILE = CMakeFiles\CursoEstructurasDatos.dir\CursoParte2\busquedaBinaria2.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CursoEstructurasDatos.dir
+  OBJECT_FILE_DIR = CMakeFiles\CursoEstructurasDatos.dir\CursoParte2
+
+build CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/busquedaBinaria3.cpp.obj: CXX_COMPILER__CursoEstructurasDatos_unscanned_Debug C$:/Users/santi/CLionProjects/CursoEstructurasDatos/CursoParte2/busquedaBinaria3.cpp || cmake_object_order_depends_target_CursoEstructurasDatos
+  DEP_FILE = CMakeFiles\CursoEstructurasDatos.dir\CursoParte2\busquedaBinaria3.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CursoEstructurasDatos.dir
+  OBJECT_FILE_DIR = CMakeFiles\CursoEstructurasDatos.dir\CursoParte2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CursoEstructurasDatos
@@ -159,7 +171,7 @@ build CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/heaps02.cpp.obj: CXX_COMP
 #############################################
 # Link the executable CursoEstructurasDatos.exe
 
-build CursoEstructurasDatos.exe: CXX_EXECUTABLE_LINKER__CursoEstructurasDatos_Debug CMakeFiles/CursoEstructurasDatos.dir/main.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Punteros.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/ArreglosYListas.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Pilas.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Queues.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/ProblemaPilas_01.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/ProblemaColas_01.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/arbolBinario.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/GrafosSinDireccion.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CiclosGrafos.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/BFS.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Dijikstra.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Bellman-Ford_.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Fijuras.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Krustal.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/Heaps01.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/heaps02.cpp.obj
+build CursoEstructurasDatos.exe: CXX_EXECUTABLE_LINKER__CursoEstructurasDatos_Debug CMakeFiles/CursoEstructurasDatos.dir/main.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Punteros.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/ArreglosYListas.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Pilas.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Queues.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/ProblemaPilas_01.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/ProblemaColas_01.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/arbolBinario.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/GrafosSinDireccion.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CiclosGrafos.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/BFS.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Dijikstra.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Bellman-Ford_.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Fijuras.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/Krustal.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/Heaps01.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/heaps02.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/busquedaBinaria2.cpp.obj CMakeFiles/CursoEstructurasDatos.dir/CursoParte2/busquedaBinaria3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CursoEstructurasDatos.dir

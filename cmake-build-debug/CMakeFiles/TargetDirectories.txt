@@ -1,3 +1,3 @@
-C:/Users/Santiago/CLionProjects/CursoEstructurasDatos/cmake-build-debug/CMakeFiles/CursoEstructurasDatos.dir
-C:/Users/Santiago/CLionProjects/CursoEstructurasDatos/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Santiago/CLionProjects/CursoEstructurasDatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/santi/CLionProjects/CursoEstructurasDatos/cmake-build-debug/CMakeFiles/CursoEstructurasDatos.dir
+C:/Users/santi/CLionProjects/CursoEstructurasDatos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/santi/CLionProjects/CursoEstructurasDatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
